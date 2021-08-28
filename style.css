@@ -1,0 +1,21 @@
+p {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.first {
+    opacity: .75;
+}
+
+.second {
+    opacity: .5;
+}
+
+.third {
+    opacity: .25;
+}
